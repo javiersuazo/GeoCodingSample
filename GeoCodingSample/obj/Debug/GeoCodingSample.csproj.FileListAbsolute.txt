@@ -1,0 +1,7 @@
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\bin\Debug\GeoCodingSample.exe.config
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\bin\Debug\GeoCodingSample.exe
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\bin\Debug\GeoCodingSample.pdb
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\bin\Debug\Geocoding.dll
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\obj\Debug\GeoCodingSample.csprojResolveAssemblyReference.cache
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\obj\Debug\GeoCodingSample.exe
+c:\users\javier\documents\visual studio 2012\Projects\GeoCodingSample\GeoCodingSample\obj\Debug\GeoCodingSample.pdb
